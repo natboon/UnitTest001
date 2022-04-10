@@ -1,0 +1,17 @@
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\obj\Debug\LABUnitTestProject.csproj.AssemblyReference.cache
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\obj\Debug\LABUnitTestProject.csproj.CoreCompileInputs.cache
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\LABUnitTestProject.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\LABUnitTestProject.pdb
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\MyClasslibrary.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\bin\Debug\MyClasslibrary.pdb
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\obj\Debug\LABUnitTestProject.csproj.CopyComplete
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\obj\Debug\LABUnitTestProject.dll
+D:\Github\Unittest001\LABUnitTestProject\LABUnitTestProject\obj\Debug\LABUnitTestProject.pdb
