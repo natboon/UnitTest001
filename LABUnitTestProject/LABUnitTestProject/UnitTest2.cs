@@ -35,16 +35,16 @@ namespace LABUnitTestProject
         public void Test_Assignment_3()
         {
             Assignment ac = new Assignment();
-            int result = ac.getFactorial(4);
-            Assert.AreEqual(24, result);
+            int result = ac.getFactorial(5);
+            Assert.AreEqual(120, result);
         }
         [TestMethod]
         public void Test_AssignmentClass_4()
         {
 
             Assignment ac = new Assignment();
-            string Password = "nattcatt";
-            int Password2 = 8564;
+            string Password = "abc";
+            int Password2 = 12345;
 
             string Password22 = Convert.ToString(Password2);
 

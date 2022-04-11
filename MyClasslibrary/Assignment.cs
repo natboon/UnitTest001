@@ -61,7 +61,7 @@ namespace MyClasslibrary
         }
         public bool checkPassword(string password, string password2)
         {
-            if (password.Length >= 8 && password2.Length >= 4)
+            if (password.Length >= 3 && password2.Length >= 5)
             {
                 return true;
             }
