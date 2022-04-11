@@ -44,7 +44,11 @@ namespace LABUnitTestProject
 
             Assignment ac = new Assignment();
             string Password = "nattcatt";
-            bool password = ac.checkPassword(Password);
+            int Password2 = 8564;
+
+            string Password22 = Convert.ToString(Password2);
+
+            bool password = ac.checkPassword(Password, Password22);
             Assert.AreEqual(true, password);
         }
     }

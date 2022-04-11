@@ -59,9 +59,9 @@ namespace MyClasslibrary
             }
             return n * getFactorial(n - 1);
         }
-        public bool checkPassword(string password)
+        public bool checkPassword(string password, string password2)
         {
-            if (password.Length >= 8)
+            if (password.Length >= 8 && password2.Length >= 4)
             {
                 return true;
             }
